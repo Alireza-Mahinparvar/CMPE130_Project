@@ -1,12 +1,6 @@
-/*
- * Testhash.h
- *
- *  Created on: Apr 16, 2020
- *      Author: vinay
- */
 
-#ifndef TESTHASH_H_
-#define TESTHASH_H_
+#ifndef TEST_H_
+#define TEST_H_
 
 namespace std {
 
