@@ -7,7 +7,7 @@ Due do the situation we have right now with covid-19 we wanted to know how can w
 
 
 Soloution Description:
-For our project we decided to implement a chaining hash table, min-heap, max heap and BST based on nodes that contain the name of the country and the number of cases it has. We are going to use the hash table to be able to find the number of cases when the name of a country is input, the min-heap to print the list of countries cases Alphabetically, max heap to print the list of countries based on the number of cases and the binary search tree to find the country by the number of cases.
+For our project we decided to implement a chaining hash table, min-heap, max heap based on nodes that contain the name of the country and the number of cases it has. We are going to use the hash table to be able to find the number of cases when the name of a country is input, the min-heap to print the list of countries cases Alphabetically, max heap to print the list of countries based on the number of cases and the binary search tree to find the country by the number of cases.
 Complexity Analysis:
  
  
@@ -16,7 +16,7 @@ Tools used for Programming:
 Each of us had different kind of IDE to work for this Project like Visual Studio, Netbeans and Alireza Used github to copy all the codes into the repository
 
 Contributions:
-Alireza Worked on implementing Max heap and Binary search Tree
+Alireza Worked on implementing Max heap and final debugging
 Saber Bakar worked on Implementing Min heap
 Vinay worked on Implementing Hash table and test Cases for whole program
 
